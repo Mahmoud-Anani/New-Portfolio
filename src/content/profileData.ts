@@ -15,9 +15,9 @@ export const PROFILE = {
   headLine2:
     "I enjoy providing software solutions and bring ideas to life and solve real-world problems.",
   website: "https://mahmoud-anani.vercel.app",
-  repo: "https://github.com/MahmoudAbdullahAnani",
+  repo: "https://github.com/Mahmoud-Anani",
   avatarUrl:
-    "https://raw.githubusercontent.com/MahmoudAbdullahAnani/New-Portfolio/refs/heads/main/public/Home-Avtar-removebg-preview.png", //public/Home-Avtar-removebg-preview.png
+    "https://raw.githubusercontent.com/Mahmoud-Anani/New-Portfolio/refs/heads/main/public/Home-Avtar-removebg-preview.png", //public/Home-Avtar-removebg-preview.png
   shortIntros: [
     "💻 Software Engineer || Full Stack Developer || NextJS || NestJS",
     "☁️ Passionate about Web Development and Clean Code",
@@ -47,10 +47,9 @@ export const PROFILE = {
     "..atc",
   ],
   links: {
-    github: "https://github.com/MahmoudAbdullahAnani",
-    twitter: "https://twitter.com/_Mahmoud_Hoda_",
-    youtube: "https://www.youtube.com/@MahmoudAbdullahAnani",
-    linkedin: "https://www.linkedin.com/in/mahmoud-abdullah-ab253920b",
+    github: "https://github.com/Mahmoud-Anani",
+    youtube: "https://www.youtube.com/@Mahmoud_Anani",
+    linkedin: "https://www.linkedin.com/in/mahmoud-anani",
   },
   studies: [
     // studies, qualifications and certifications

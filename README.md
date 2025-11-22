@@ -2,7 +2,7 @@
 
 [![LinkedIn](/public/preview/website.png)](https://mahmoud-anani.vercel.app)
 
-[![LinkedIn](/public/preview/linedin.png)](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b)
+[![LinkedIn](/public/preview/linedin.png)](https://www.linkedin.com/in/mahmoud-anani)
 
 ---
 
@@ -17,7 +17,7 @@ As a developer, I am dedicated to learning and staying updated with the latest i
 - **Location**: Zagazig, Sharqia, Egypt
 - **Email**: [mahmoud18957321@gmail.com](mailto:mahmoud18957321@gmail.com)
 - **WhatsApp | Call**: +201028876202
-- **LinkedIn**: [Mahmoud Anani](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b)
+- **LinkedIn**: [Mahmoud Anani](https://www.linkedin.com/in/mahmoud-anani)
 
 ---
 
@@ -69,7 +69,7 @@ Here’s a quick look at the technologies I work with:
 
 ## 📬 Let's Connect!
 
-I’m always open to discussing new projects or ideas. Reach out via [email](mailto:mahmoud18957321@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-abdullah-ab253920b) for any collaboration or inquiries!
+I’m always open to discussing new projects or ideas. Reach out via [email](mailto:mahmoud18957321@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-anani) for any collaboration or inquiries!
 
 ---
 
